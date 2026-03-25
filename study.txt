@@ -1,0 +1,4 @@
+English,2
+Math,3
+Science,1.5
+Computer,2.5
