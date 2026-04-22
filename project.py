@@ -3,7 +3,7 @@ import tkinter as tk
 import numpy as np
 import os
 
-# Try importing ML library safely
+# Try importing ML library 
 try:
     from sklearn.linear_model import LinearRegression
     ml_available = True
